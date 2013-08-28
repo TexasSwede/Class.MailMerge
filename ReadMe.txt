@@ -2,7 +2,7 @@
 
 Put the text in a rich text field named 'Body' on the template document. Use the syntax below to display values from the processed document in the resulting document.
 Note that there is functionality in the script library and in the control codes/place holder below that reference documents and structure that does not exist in the sample database.
-
+You can read more on my blog at http://blog.texasswede.com/code-mail-mergeform-letters-in-lotuscript/
 ---------------------------------------
 
 {fieldname}
